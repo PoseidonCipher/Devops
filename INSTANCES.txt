@@ -1,0 +1,8 @@
+INSTANCES
+ON-DEMAND---- We are using on-demand instance--- a bit higher in cost.
+RESERVED---- it will be cheaper than on-demand----- wipro next month-- he needs a server-- march 29--- now itself cost will be less--- amount will be paid immediately.
+SPOT----- auction basis-- your server will get terminated anytime----- cost less to on-demand--- we must be ready for interruptions
+SCHEDULE INSTANCE--- automatically u can schedule to start and stop ur instance-- it works like this way--- 
+Dedicated (blocked by a single user)4---- within the organization-- in a vpc- accenture-- payroll page payslips--
+
+I am starting a company and I am managing the employee privacy data ( dedicated system---- will be managed only me)
